@@ -1,6 +1,3 @@
-def datos_diego():
-  print("Hola, me llamo diego y tengo 21 años")
-# Menú base del programa
 while True:
 print("\n--- MENÚ PRINCIPAL ---")
 print("1. Función de integrante 1")
@@ -12,9 +9,12 @@ if op == "0":
 print("Programa finalizado.")
 break
 elif op == "1":
-  datos_diego() # Aquí se llamará a la función del integrante 1
-elif op == "2": # Aquí se llamará a la función del integrante 2
-elif op == "3": # Aquí se llamará a la función del integrante 3
+  datos_diego() 
+elif op == "2": 
+  datos_raimundo()
+elif op == "3": 
+  datos_santiago()
 elif op == "4":
+  datos_khristian()
 else:
 print("Opción inválida.")
