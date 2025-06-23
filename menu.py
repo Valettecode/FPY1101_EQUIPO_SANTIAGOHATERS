@@ -1,3 +1,5 @@
+def datos_diego():
+  print("Hola, me llamo diego y tengo 21 años")
 # Menú base del programa
 while True:
 print("\n--- MENÚ PRINCIPAL ---")
