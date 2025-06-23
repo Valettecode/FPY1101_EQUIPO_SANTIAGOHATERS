@@ -1,5 +1,5 @@
-def datos_diego():
-  print("Me llamo diego y tengo 21 años")
+def datos_khristian():
+  print("Me llamo khristian y tengo 18 años")
 while True:
 print("\n--- MENÚ PRINCIPAL ---")
 print("1. Función de integrante 1")
