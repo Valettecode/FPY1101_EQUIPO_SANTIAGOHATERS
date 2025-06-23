@@ -1,3 +1,5 @@
+def datos_diego():
+  print("Hola, me llamo diego y tengo 21 años")
 # Menú base del programa
 while True:
 print("\n--- MENÚ PRINCIPAL ---")
@@ -10,6 +12,7 @@ if op == "0":
 print("Programa finalizado.")
 break
 elif op == "1":
+  datos_diego()
 pass # Aquí se llamará a la función del integrante 1
 elif op == "2":
 pass # Aquí se llamará a la función del integrante 2
