@@ -1,5 +1,5 @@
-def datos_raimundo()
-  print("Mi nombre es raimundo y tengo 19 años")
+def datos_raimundo():
+  print("Hola me llamo raimundo y tengo 19 años")
 while True:
 print("\n--- MENÚ PRINCIPAL ---")
 print("1. Función de integrante 1")
