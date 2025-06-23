@@ -2,6 +2,7 @@ def datos_diego():
  print("Hola, me llamo diego y tengo 21 años")
 def Datos_Santiago():
  print("Mi nombre es Santiago Esteva y tengo 21 años")
+ #Menu base del programa
 while True:
  print("\n--- MENÚ PRINCIPAL ---")
  print("1. Función de integrante 1")
