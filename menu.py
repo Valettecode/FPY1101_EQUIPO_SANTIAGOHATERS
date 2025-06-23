@@ -1,3 +1,5 @@
+def datos_diego():
+  print("me llamo diego y tengo 21 años")
 def datos_raimundo():
   print("Me llamo raimundo y tengo 19 años")
 while True:
